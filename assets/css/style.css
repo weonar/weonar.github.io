@@ -49,3 +49,13 @@ body{
   text-align: center;
   margin-right: 30px;
 }
+.header_logo{
+  background: url(../img/head.png) no-repeat;
+  display: inline-block;
+  height: 70px;
+  width: 280px;
+  margin-top: 1%;
+}
+a{
+  text-decoration: none;
+}
