@@ -4,3 +4,15 @@ body{
   min-width: 800px;
   max-width: 1920px;
 }
+.sign_in{
+  font-size: 20px;
+  font-family: "Nunito Sans";
+  color: rgb(57, 132, 243);
+  font-weight: bold;
+  line-height: 1.75;
+  text-align: left;
+  border: solid 3px;
+  border-color: 3984f3;
+  padding: 7px 15px;
+  margin-right: 0px;
+}
