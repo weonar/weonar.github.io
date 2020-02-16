@@ -120,4 +120,6 @@ body{
   margin-top: 3%;
   width: 55%;
 }
-
+.fluid_img{
+  max-width: 100%;
+}
