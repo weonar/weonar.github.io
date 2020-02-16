@@ -1,4 +1,4 @@
-@media only screen and (min-width: 1280px) and (max-width: 1920px){
+
 .sign_in{
   font-size: 20px;
   font-family: "Nunito Sans";
@@ -104,6 +104,5 @@ body{
   position: absolute;
   float: left;
   margin-top: 35.5%;
-}
 }
 
