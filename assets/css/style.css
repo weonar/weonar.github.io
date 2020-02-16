@@ -1,4 +1,6 @@
-
+body{
+  margin: 0;
+}
 .sign_in{
   font-size: 20px;
   font-family: "Nunito Sans";
@@ -44,65 +46,3 @@
   text-align: center;
   margin-right: 30px;
 }
-.header_logo{
-  background: url(../img/head.png) no-repeat;
-  display: inline-block;
-  height: 70px;
-  width: 280px;
-  margin-top: 1%;
-}
-a{
-  text-decoration: none;
-}
-
-body{
-  margin:0;
-
-}
-.travel{
-  font-size: 75px;
-  font-family: "Nunito Sans";
-  color: rgb(9, 30, 64);
-  font-weight: bold;
-  line-height: 1.067;
-  float: left;
-  width: 28%;
-  margin-left: 8%;
-  margin-top: 14%;
-}
-.vector{
-  float: right;
-  margin-top: 3%;
-}
-.plan{
-  font-size: 22px;
-  font-family: "Nunito Sans";
-  color: rgb(129, 133, 142);
-  line-height: 0.9;
-  float:left;
-  width: 26%;
-  margin-top: 2%;
-  margin-left: 8%;
-}
-.sign_up{
-  float: left;
-  margin-top: 4%;
-  margin-left: 8%;
-  font-size: 20px;
-  font-family: "Nunito Sans";
-  color: rgb(255, 255, 255);
-  font-weight: bold;
-  line-height: 1.75;
-  text-align: left;
-  background-color: #3984f3;
-  padding:0.5% 2% 0.5% 2%;
-}
-.sign_upa{
-  color: #ffffff;
-}
-.godong{
-  position: absolute;
-  float: left;
-  margin-top: 35.5%;
-}
-
