@@ -51,4 +51,18 @@ a{
   display: inline-block;
 
 }
+.left_1{
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.left_2{
+  width: 44,79167%;
+  float: left;
+}
+.vector{
+  float: right;
+  margin-top: 3%;
+  width: 55,20833%;
+}
 
