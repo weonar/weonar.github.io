@@ -1,10 +1,15 @@
-body{
-  margin:0;
-  width: 100%;
-  max-width: 1920px;
-}
-a{
-  text-decoration: none;
+
+.sign_in{
+  font-size: 20px;
+  font-family: "Nunito Sans";
+  color: rgb(57, 132, 243);
+  font-weight: bold;
+  line-height: 1.75;
+  text-align: left;
+  border: solid 3px;
+  border-color: 3984f3;
+  padding: 7px 15px;
+  margin-right: 0px;
 }
 .Home {
   font-size: 20px;
@@ -13,6 +18,7 @@ a{
   font-weight: bold;
   line-height: 0.73;
   text-align: center;
+  margin-right: 30px;
 }
 .Video {
   font-size: 20px;
@@ -20,6 +26,7 @@ a{
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
+  margin-right: 30px;
 }
 .Destinations {
   font-size: 20px;
@@ -27,6 +34,7 @@ a{
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
+  margin-right: 30px;
 }
 .Booking {
   font-size: 20px;
@@ -34,35 +42,7 @@ a{
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
-}
-.sign_in {
-  font-size: 20px;
-  font-family: "Nunito Sans";
-  color: rgb(57, 132, 243);
-  font-weight: bold;
-  line-height: 1.75;
-  text-align: center;
-  border: solid 3px;
-  border-color: #3984f3;
-}
-.header_logo{
-  background: url(../img/head.png) no-repeat;
-  display: inline-block;
-
-}
-.left_1{
-  width: 100%;
-  max-width: 1920px;
-  margin: 0 auto;
-}
-.left_2{
-  width: 44,79167%;
-  float: left;
-}
-.vector{
-  float: right;
-  margin-top: 3%;
-  width: 55,20833%;
+  margin-right: 30px;
 }
 .header_logo{
   background: url(../img/head.png) no-repeat;
@@ -70,6 +50,16 @@ a{
   height: 70px;
   width: 280px;
   margin-top: 1%;
+}
+a{
+  text-decoration: none;
+}
+
+body{
+  margin:0;
+  width: 100%;
+  min-width: 1280px;
+  max-width: 1920px;
 }
 .travel{
   font-size: 75px;
@@ -81,6 +71,10 @@ a{
   width: 28%;
   margin-left: 8%;
   margin-top: 14%;
+}
+.vector{
+  float: right;
+  margin-top: 3%;
 }
 .plan{
   font-size: 22px;
@@ -112,5 +106,19 @@ a{
   position: absolute;
   float: left;
   margin-top: 35.5%;
+}
+.left_1{
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.left_2{
+  width: 44,79167%;
+  float: left;
+}
+.vector{
+  float: right;
+  margin-top: 3%;
+  width: 55,20833%;
 }
 
