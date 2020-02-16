@@ -1,54 +1,54 @@
-body{
-  margin:0;
-  width: 1920px;
-  min-width: 1280px;
-  max-width: 1920px;
-}
-a{
-  text-decoration: none;
-}
-.Home {
-  font-size: 20px;
-  font-family: "Nunito";
-  color: rgb(68, 151, 243);
-  font-weight: bold;
-  line-height: 0.73;
-  text-align: center;
-}
-.Video {
-  font-size: 20px;
-  font-family: "Nunito";
-  color: rgb(186, 184, 184);
-  line-height: 0.73;
-  text-align: center;
-}
-.Destinations {
-  font-size: 20px;
-  font-family: "Nunito";
-  color: rgb(186, 184, 184);
-  line-height: 0.73;
-  text-align: center;
-}
-.Booking {
-  font-size: 20px;
-  font-family: "Nunito";
-  color: rgb(186, 184, 184);
-  line-height: 0.73;
-  text-align: center;
-}
-.sign_in {
-  font-size: 20px;
-  font-family: "Nunito Sans";
-  color: rgb(57, 132, 243);
-  font-weight: bold;
-  line-height: 1.75;
-  text-align: center;
-  border: solid 3px;
-  border-color: #3984f3;
-}
-.header_logo{
-  background: url(../img/head.png) no-repeat;
-  display: inline-block;
+@media only screen(max-width: 1920px){
+  body{
+    margin:0;
+    width: 1920px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .Home {
+    font-size: 20px;
+    font-family: "Nunito";
+    color: rgb(68, 151, 243);
+    font-weight: bold;
+    line-height: 0.73;
+    text-align: center;
+  }
+  .Video {
+    font-size: 20px;
+    font-family: "Nunito";
+    color: rgb(186, 184, 184);
+    line-height: 0.73;
+    text-align: center;
+  }
+  .Destinations {
+    font-size: 20px;
+    font-family: "Nunito";
+    color: rgb(186, 184, 184);
+    line-height: 0.73;
+    text-align: center;
+  }
+  .Booking {
+    font-size: 20px;
+    font-family: "Nunito";
+    color: rgb(186, 184, 184);
+    line-height: 0.73;
+    text-align: center;
+  }
+  .sign_in {
+    font-size: 20px;
+    font-family: "Nunito Sans";
+    color: rgb(57, 132, 243);
+    font-weight: bold;
+    line-height: 1.75;
+    text-align: center;
+    border: solid 3px;
+    border-color: #3984f3;
+  }
+  .header_logo{
+    background: url(../img/head.png) no-repeat;
+    display: inline-block;
 
+  }
+  
 }
-
