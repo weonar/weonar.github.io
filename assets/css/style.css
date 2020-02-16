@@ -44,5 +44,11 @@ a{
   line-height: 1.75;
   text-align: center;
   border:solid 0.25%;
+  border-color: #3984f3;
+}
+.header_logo{
+  background: url(../img/head.png) no-repeat;
+  display: inline-block;
+  
 }
 
