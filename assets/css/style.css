@@ -58,33 +58,8 @@ a{
 body{
   margin:0;
   width: 100%;
-  max-width: 1920px;
 }
-.travel{
-  font-size: 75px;
-  font-family: "Nunito Sans";
-  color: rgb(9, 30, 64);
-  font-weight: bold;
-  line-height: 1.067;
-  float: left;
-  width: 28%;
-  margin-left: 8%;
-  margin-top: 14%;
-}
-.vector{
-  float: right;
-  margin-top: 3%;
-}
-.plan{
-  font-size: 22px;
-  font-family: "Nunito Sans";
-  color: rgb(129, 133, 142);
-  line-height: 0.9;
-  float:left;
-  width: 26%;
-  margin-top: 2%;
-  margin-left: 8%;
-}
+
 .sign_up{
   float: left;
   margin-top: 4%;
@@ -114,6 +89,28 @@ body{
 .left_2{
   width: 45%;
   float: left;
+}
+.travel{
+  font-size: 75px;
+  font-family: "Nunito Sans";
+  color: rgb(9, 30, 64);
+  font-weight: bold;
+  line-height: 1.067;
+  float: left;
+  width: 100%;
+  margin-left: 8%;
+  margin-top: 14%;
+}
+
+.plan{
+  font-size: 22px;
+  font-family: "Nunito Sans";
+  color: rgb(129, 133, 142);
+  line-height: 0.9;
+  float:left;
+  width: 100%;
+  margin-top: 2%;
+  margin-left: 8%;
 }
 .vector{
   float: right;
