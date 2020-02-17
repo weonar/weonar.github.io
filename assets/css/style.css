@@ -1,48 +1,48 @@
 
 .sign_in{
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Nunito Sans";
   color: rgb(57, 132, 243);
   font-weight: bold;
   line-height: 1.75;
   text-align: left;
   border: solid 3px;
-  border-color: 3984f3;
+  border-color: #3984f3;
   padding: 7px 15px;
   margin-right: 0px;
 }
 .Home {
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Nunito";
   color: rgb(68, 151, 243);
   font-weight: bold;
   line-height: 0.73;
   text-align: center;
-  margin-right: 30px;
+  margin-right: 6%;
 }
 .Video {
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Nunito";
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
-  margin-right: 30px;
+  margin-right: 6%;
 }
 .Destinations {
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Nunito";
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
-  margin-right: 30px;
+  margin-right: 6%;
 }
 .Booking {
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Nunito";
   color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
-  margin-right: 30px;
+  margin-right: 6%;
 }
 .header_logo{
   background: url(../img/head.png) no-repeat;
