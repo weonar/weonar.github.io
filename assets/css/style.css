@@ -120,3 +120,53 @@ body{
   margin-top: 35.7%;
   width: 12%;
 }
+.amaz{
+  width: 91.7%;
+  float: left;
+  margin:0;
+  clear:both;
+}
+.price{
+  width: 62%;
+  padding-top: 9%;
+  display: inline-block;
+}
+.maldives{
+  width: 21.3%;
+}
+.nepal{
+  width: 35%;
+}
+.indo{
+  width: 35%;
+}
+.amazing{
+  width: 38%;
+  float: right;
+  padding-top: 7%;
+}
+.amaz_p{
+  font-size: 3.1vw;
+  font-family: "Nunito Sans";
+  color: rgb(9, 30, 64);
+  line-height: 1.24;
+  font-weight: bold;
+  margin-bottom: 1%
+}
+.etiam{
+  font-size: 1.1vw;
+  font-family: "Nunito Sans";
+  color: rgb(129, 133, 142);
+  line-height: 1;
+}
+.explore{
+  float: left;
+  margin-top: 8%;
+  font-size: 1.5vw;
+  font-family: "Nunito Sans";
+  color: rgb(255, 255, 255);
+  line-height: 1.75;
+  text-align: left;
+  background-color: #3984f3;
+  padding:0.5% 7%;
+}
