@@ -62,7 +62,7 @@ body{
   float: left;
   margin-top: 4%;
   margin-left: 8%;
-  font-size: 20px;
+  font-size: 1vw;
   font-family: "Nunito Sans";
   color: rgb(255, 255, 255);
   font-weight: bold;
@@ -84,11 +84,13 @@ body{
   margin: 0 auto;
 }
 .left_2{
-  width: 45%;
+  width: 30%;
   float: left;
+  margin-left: 5%;
+  margin-top: 11%;
 }
 .travel{
-  font-size: 75px;
+  font-size: 4vw;
   font-family: "Nunito Sans";
   color: rgb(9, 30, 64);
   font-weight: bold;
@@ -100,13 +102,13 @@ body{
 }
 
 .plan{
-  font-size: 22px;
+  font-size: 1vw;
   font-family: "Nunito Sans";
   color: rgb(129, 133, 142);
   line-height: 0.9;
   float:left;
   width: 100%;
-  margin-top: 2%;
+  margin-top: 6%;
   margin-left: 8%;
 }
 .vector{
