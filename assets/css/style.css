@@ -74,11 +74,6 @@ body{
 .sign_upa{
   color: #ffffff;
 }
-.godong{
-  position: absolute;
-  float: left;
-  margin-top: 35.5%;
-}
 .left_1{
   width: 100%;
   margin: 0 auto;
@@ -118,4 +113,10 @@ body{
 }
 .fluid_img{
   max-width: 100%;
+}
+.godong{
+  position: absolute;
+  float: left;
+  margin-top: 35.7%;
+  width: 12%;
 }
