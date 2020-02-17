@@ -45,10 +45,8 @@
   margin-right: 6%;
 }
 .header_logo{
-  background: url(../img/head.png) no-repeat;
   display: inline-block;
-  height: 70px;
-  width: 280px;
+  width: 5%;
   margin-top: 1%;
 }
 a{
