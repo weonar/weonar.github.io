@@ -211,5 +211,18 @@ body{
 }
 .videos{
   padding-top: 9%;
-  
+  clear: both;
+  text-align: center;
+  font-size: 3vw;
+  font-family: "Nunito Sans";
+  color: rgb(9, 30, 64);
+  font-weight: bold;
+  line-height: 1.24;
 }
+#videos{
+  font-size: 1vw;
+  font-family: "Nunito Sans";
+  color: rgb(129, 133, 142);
+  line-height: 1;
+}
+
