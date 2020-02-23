@@ -209,3 +209,7 @@ body{
 .explore:hover{
   transform: scale(1.2);
 }
+.videos{
+  padding-top: 9%;
+  
+}
