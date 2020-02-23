@@ -14,8 +14,7 @@
 .Home {
   font-size: 1.2vw;
   font-family: "Nunito";
-  color: rgb(68, 151, 243);
-  font-weight: bold;
+  color: rgb(186, 184, 184);
   line-height: 0.73;
   text-align: center;
   margin-right: 6%;
@@ -43,6 +42,26 @@
   line-height: 0.73;
   text-align: center;
   margin-right: 6%;
+}
+.Home:hover{
+  color:#4497f3;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+.Video:hover{
+  color:#4497f3;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+.Destinations:hover{
+  color:#4497f3;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+.Booking:hover{
+  color:#4497f3;
+  font-weight: bold;
+  transition: all 0.5s ease;
 }
 .header_logo{
   display: inline-block;
@@ -133,12 +152,25 @@ body{
 }
 .maldives{
   width: 21.3%;
+
+}
+.maldives:hover{
+  transition: 1s;
+  transform: scale(1.2);
 }
 .nepal{
   width: 35%;
 }
+.nepal:hover{
+  transition: 1s;
+  transform: scale(1.2);
+}
 .indo{
   width: 35%;
+}
+.indo:hover{
+  transition: 1s;
+  transform: scale(1.2);
 }
 .amazing{
   width: 38%;
