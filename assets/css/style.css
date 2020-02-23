@@ -160,8 +160,13 @@ body{
 }
 .nepal{
   width: 35%;
+  padding: 0;
 }
 .nepal:hover{
+  transition: 1s;
+  transform: scale(1.2);
+}
+.nepal:focus{
   transition: 1s;
   transform: scale(1.2);
 }
