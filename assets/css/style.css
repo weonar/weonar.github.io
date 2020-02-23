@@ -230,7 +230,7 @@ body{
 }
 .youtube{
   text-align: center;
-  height: 600px;
+  height: 900px;
 }
 .categories{
   clear: both;
@@ -254,7 +254,7 @@ body{
 }
 .trimg{
   width: 100%;
-  padding-bottom: 2%;
+  overflow: hidden;
 }
 .trimgh1{
   width: 10.2%;
@@ -291,3 +291,64 @@ body{
 .trimgh5:hover{
   transform: scale(1.2);
 }
+.ell{
+  padding-top: 2%;
+}
+.rect{
+  filter: grayscale(1);
+  width: 2%;
+  transition: 1s;
+}
+.rect:active{
+  filter: grayscale(0);
+  width: 3%;
+}
+.rect:hover{
+  filter: grayscale(0);
+  width: 3%;
+}
+.forma1{
+  padding-bottom: 4%;
+  padding-left: 1%;
+  transform: scale(-1, 1);
+  filter: grayscale(1);
+}
+.forma{
+  padding-bottom: 4%;
+  padding-left: 1%;
+  filter: grayscale(1);
+}
+.forma1:hover{
+  filter: grayscale(0);
+}
+.forma:hover{
+  filter: grayscale(0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
