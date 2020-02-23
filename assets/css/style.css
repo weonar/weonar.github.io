@@ -151,7 +151,7 @@ body{
   display: inline-block;
 }
 .maldives{
-  width: 21.3%;
+  width: 24%;
 
 }
 .maldives:hover{
@@ -159,8 +159,7 @@ body{
   transform: scale(1.2);
 }
 .nepal{
-  width: 35%;
-  padding: 0;
+  width: 38%;
 }
 .nepal:hover{
   transition: 1s;
@@ -171,7 +170,7 @@ body{
   transform: scale(1.2);
 }
 .indo{
-  width: 35%;
+  width: 38%;
 }
 .indo:hover{
   transition: 1s;
