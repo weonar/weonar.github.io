@@ -204,4 +204,8 @@ body{
   text-align: left;
   background-color: #3984f3;
   padding:0.5% 7%;
+  transition: 1s;
+}
+.explore:hover{
+  transform: scale(1.2);
 }
