@@ -89,6 +89,10 @@ body{
   text-align: left;
   background-color: #3984f3;
   padding:0.5% 2% 0.5% 2%;
+  transition:all 1s ease;
+}
+.sign_up:hover{
+  transform: scale(1.2);
 }
 .sign_upa{
   color: #ffffff;
@@ -152,28 +156,26 @@ body{
 }
 .maldives{
   width: 22.4%;
-
+  transition: 1s;
 }
 .maldives:hover{
-  transition: 1s;
   transform: scale(1.2);
 }
 .nepal{
   width: 37%;
+  transition: 1s;
 }
 .nepal:hover{
-  transition: 1s;
   transform: scale(1.2);
 }
 .nepal:focus{
-  transition: 1s;
   transform: scale(1.2);
 }
 .indo{
   width: 37%;
+  transition: 1s;
 }
 .indo:hover{
-  transition: 1s;
   transform: scale(1.2);
 }
 .amazing{
