@@ -168,9 +168,6 @@ body{
 .nepal:hover{
   transform: scale(1.2);
 }
-.nepal:focus{
-  transform: scale(1.2);
-}
 .indo{
   width: 37%;
   transition: 1s;
